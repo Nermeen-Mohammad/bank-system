@@ -1,0 +1,50 @@
+﻿  FileName.cpp
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(46,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(92,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(97,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(191,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(278,37): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(307,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(351,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(354,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsString.h(371,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsDate.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsBankClient.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsInputValidate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsBankClient.h(289,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+C:\Users\Nermeen\source\repos\Bank Project\Bank Project\clsBankClient.h(567,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'FileName.cpp')
+  
+  Bank Project.vcxproj -> C:\Users\Nermeen\source\repos\Bank Project\x64\Debug\Bank Project.exe
